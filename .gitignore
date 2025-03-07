@@ -15,5 +15,6 @@ staticfiles/
 
 # IDE / Editor files
 .vscode/
+.vs/
 .idea/
 *.iml
